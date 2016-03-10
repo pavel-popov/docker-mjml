@@ -1,0 +1,10 @@
+<mj-body>
+    <mj-section>
+        <mj-column>
+            <mj-text font-size="20px" color="red" font-family="helvetica">Hello, world</mj-text>
+            <mj-divider border-color="red"></mj-dividier>
+            <mj-text font-size="20px" color="red" font-family="helvetica">Hello, world</mj-text>
+        </mj-column>
+    </mj-section>
+</mj-body>
+
