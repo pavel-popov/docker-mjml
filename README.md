@@ -1,7 +1,7 @@
 # Docker MJML image
 
-This is a docker image containing mjml executable, suitable for turning mjml
-files to html email files.
+This is a docker image containing [mjml] executable, suitable for turning mjml
+files to responsive html email files.
 
 ## Usage
 
@@ -9,3 +9,5 @@ files to html email files.
     docker run --rm `pwd`:/data \
       schmooser/mjml \
       mjml -r /data/test.mjml -o /data/test.html
+
+[mjml]: http://mjml.io
